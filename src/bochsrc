@@ -1253,7 +1253,7 @@ parport1: enabled=1, file="parport.out"
 # floppya: 1_44=[fd:], status=inserted
 #=======================================================================
 #floppya: 1_44="../boot.img", status=inserted
-floppya: 1_44=boot.img, status=inserted
+floppya: 1_44="../boot.img", status=inserted
 
 #=======================================================================
 # MEGS
